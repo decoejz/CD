@@ -1,0 +1,23 @@
+.itens {
+	position: relative;
+	display: inline-block;
+	float: left;
+	padding: 0 2px 10px 2px;
+}
+
+.foto_item {
+	display: inline-block;
+	cursor: pointer;
+	padding: 5px 5px 5px 5px;
+}
+
+.nome_item {
+	display: block;
+	cursor: pointer;
+	max-width: 10px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	max-width: 15rem;
+	padding: 0px 5px 5px 5px;
+}
